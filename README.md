@@ -16,5 +16,6 @@ The `Histogram` class is a generic container that maintains a map of elements (`
 
 ## Contributions 🤝
 
+<img align="left" width="180" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/Kata-Domain-Histogram/assets/90756437/46408c6a-e175-4e78-80b7-0e190c5198aa"></a>
 Feel free to contribute to this project, whether by reporting issues, suggesting improvements, or proposing new features. Every contribution is welcome!
 
